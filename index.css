@@ -1,0 +1,41 @@
+h2{
+    color:white;
+    text-align: center;
+    width: 100%;
+}
+h1{
+    color: red;
+    text-align: center;
+    width: 100%;
+}
+h3{
+    color: silver;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    text-align: center;
+    color: white;
+
+}
+p{
+    font-family: sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+body{
+    background-image: url("mo.jpg")
+    
+    
+    ;
+}
+li{
+    color: white;
+    
+}
+
+ul {
+    text-align: center;
+    font-size: 50px;
+    word-spacing: 30px;
+}

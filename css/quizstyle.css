@@ -1,0 +1,16 @@
+body{
+   background-image: ur("../image/download.jpg.");
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+.moz{
+    color: chartreuse;
+    text-align: center;
+    font-family: sans-serif;
+}
+
